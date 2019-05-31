@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/i4-microservices/admin/admin.iml" filepath="$PROJECT_DIR$/i4-microservices/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i4-microservices/configuration/configuration.iml" filepath="$PROJECT_DIR$/i4-microservices/configuration/configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i4-microservices/discovery/discovery.iml" filepath="$PROJECT_DIR$/i4-microservices/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morse-encoder/encoder/encoder.iml" filepath="$PROJECT_DIR$/morse-encoder/encoder/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i4-microservices/menu/menu.iml" filepath="$PROJECT_DIR$/i4-microservices/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserves.iml" filepath="$PROJECT_DIR$/microserves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morse-encoder/morse/morse.iml" filepath="$PROJECT_DIR$/morse-encoder/morse/morse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i4-microservices/waiter/waiter.iml" filepath="$PROJECT_DIR$/i4-microservices/waiter/waiter.iml" />
+    </modules>
+  </component>
+</project>
